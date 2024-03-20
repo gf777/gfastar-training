@@ -5,7 +5,7 @@ tasks:
   command: |
     cd /workspace
     #gfastats
-    wget https://github.com/vgl-hub/gfastats/releases/download/v1.3.6/gfastats.v1.3.7-linux.zip
+    wget https://github.com/vgl-hub/gfastats/releases/download/v1.3.7/gfastats.v1.3.7-linux.zip
     unzip gfastats.v1.3.7-linux.zip
     chmod a+x ./gfastats
     #rdeval
