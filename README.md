@@ -1,17 +1,11 @@
 # Gfastar: a tool suite to assist genome assembly
 
-This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
+This is mutuated from the gfastar session in the [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
 
 ## Session Leader(s)
 
 Giulio Formenti  
 Research Assistant Professor, The Rockefeller University
-
-Cassidy Johnson  
-Graduate Fellow, The Rockefeller University
-
-Jack Medico
-Graduate Fellow, The Rockefeller University
 
 ## Description
 
