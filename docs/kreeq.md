@@ -12,7 +12,7 @@ kreeq union -h
 
 Let's get some test files first:
 ```
-mv gfastar/docs/testFiles-kreeq/* .
+cp gfastar/docs/testFiles-kreeq/* .
 ```
 
 We will test some typical usage with the files moved from the `testFiles` folder, e.g.:
