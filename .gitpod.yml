@@ -9,8 +9,8 @@ tasks:
     unzip gfastats.v1.3.7-linux.zip
     chmod a+x ./gfastats
     #rdeval
-    wget https://github.com/vgl-hub/rdeval/releases/download/v0.0.1/rdeval.v0.0.1-linux.zip
-    unzip rdeval.v0.0.1-linux.zip
+    https://github.com/vgl-hub/rdeval/releases/download/v0.0.5/rdeval.v0.0.5-linux.zip
+    unzip rdeval.v0.0.5-linux.zip
     chmod a+x ./rdeval
     #kreeq
     wget https://github.com/vgl-hub/kreeq/releases/download/v0.0.1/kreeq.v0.0.1-linux.zip
