@@ -1,6 +1,6 @@
 Let's get some test files first:
 ```
-cp gfastar/docs/testFiles-gfastats/* .
+cp gfastar-training/docs/testFiles-gfastats/* .
 ```
 Help:
 ```
