@@ -10,7 +10,7 @@ rdeval -h
 
 Let's get some test files first:
 ```
-cp gfastar/docs/testFiles-rdeval/* .
+cp gfastar-training/docs/testFiles-rdeval/* .
 ```
 
 Now let's evaluate the contents of our fasta file:
@@ -20,10 +20,10 @@ rdeval random1.fastq
 
 Output size list, based on unsorted (‘u’), sorted (‘s’), histogram (‘h’) or inverse cumulative table (‘c’) [-s/–out-size]:
 ```
-redval -s u random1.fastq
-redval -s s random1.fastq
-redval -s h random1.fastq
-redval -s c random1.fastq
+rdeval -s u random1.fastq
+rdeval -s s random1.fastq
+rdeval -s h random1.fastq
+rdeval -s c random1.fastq
 ```
 
 To obtain a distribution of quality for each read (c) or both length and quality(l):
