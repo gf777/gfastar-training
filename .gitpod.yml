@@ -1,7 +1,7 @@
-image: gitpod/workspace-base
-
+image:
+    file: .gitpod.Dockerfile
 tasks:
-- name: install gfastats
+- name: install gfastats rdeval kreeq
   command: |
     cd /workspace
     #gfastats
